@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @the-dead-flower1928
-- 👀 I’m interested in Scratch-www amd Scratch.mit.ecu
+- 👀 I’m interested in Scratch-www amd Scratch.mit.edu
 - 🌱 I’m currently learning python
 - 📫 you can contact me on my scratch account 
 <!---
