@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @the-dead-flower1928
 - 👀 I’m interested in Scratch.mit.edu
-- 🌱 I’m currently learning python
+- 🌱 
 - 📫 you can contact me on my scratch account 
 <!---
 the-dead-flower1928/the-dead-flower1928 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
